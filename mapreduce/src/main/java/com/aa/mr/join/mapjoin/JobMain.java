@@ -13,12 +13,6 @@ import java.io.IOException;
 import java.net.URI;
 import java.net.URISyntaxException;
 
-/**
- * @Author AA
- * @Date 2021/9/15 16:48
- * @Project bigdatapre
- * @Package com.aa.join.mapjoin
- */
 public class JobMain {
     public static void main(String[] args) throws IOException, ClassNotFoundException, InterruptedException, URISyntaxException {
         Configuration configuration = new Configuration();
